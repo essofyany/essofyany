@@ -6,8 +6,8 @@ I'm a computer science student & front-end developer who is passionate about wri
 
 - 🔭 I’m currently a Master student at Mohammed V Unversity.
 - ✔️ I’m a front-end developer {js lover}.
-- 🧱 My current stack : HTML, CSS/SCSS, Js, ReactJS, NextJS, Apollo-client, Chakra-UI, Tailwindcss, NodeJS, ExpressJS, MongoDB, and graphQL. 
-- 📚 I’m currently learning backend technologies such as Typescript, Go, and Salesforce.
+- 🧱 My current stack : HTML, CSS/SCSS, Javascript/Typescript, ReactJS, NextJS, Apollo-client, Chakra-UI, Tailwindcss, NodeJS, ExpressJS, MongoDB, and graphQL. 
+- 📚 I’m currently learning backend technologies such as Go, and Salesforce.
 - 👯 I’m looking for a web development internship or Remote job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bilal-essofyany-38b747180/) [Gmail](mailto:soufyani.bilal@gmail.com)
 
